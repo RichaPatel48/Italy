@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Italy
+        </title>
+    </head>
+    <body style="background-color:pink;text-align:center;font-size:18px;">
+        <h1 style="text-align:center;">
+            The Best Places to Visit in Italy
+        </h1>
+        <p>
+            Many tourists and experts visit Italy and agree that Italy is an exotic place, even so that many people dream of visiting the many attractions there. Italy is known for its tasty food, famous historical areas, small towns, and beautiful cities. The list of places to visit in Italy are extremely long, but I've narrowed them down to the top spots.
+        </p>
+        <p>
+            So, here's the <mark style="background-color:white;">top 3 best destinations in Italy</mark> - so you can figure out where to go for your special holiday.
+        </p>
+        <br>
+        <h2>
+          <i> 1. Rome, Italy </i>
+        </h2>
+        <p>
+            <img src="https://www.dentons.com/-/media/images/website/background-images/offices/rome/rome_1900x1500.jpg" alt="Rome, Italy" width="230px;" height="150px;">
+           <br> <br> What better way is there to start the list off with other than Italy's capital, <b>Rome</b>? Many people have heard of Rome before and the many attractions there, but what are the special features which makes the capital so exciting? Here's some of the top 3 things to do in Rome, Italy. <br> <br> </p>
+            <i> <br> <br> 1 - Pizza Making Class </i> <br>
+           <p> This class is known to be one of the most popular place to visit in Rome, as you get to gain some knowledge about pizza making and get a tasty treat at the end after your hard work. </p> 
+           <i> 2 - Kayak Tour </i> <br>
+           <p> On this 3-Hour kayak tour, you'll be able to visit the most popular tourist spots along with historical buildings - all while being in a kayak! </p>
+           <i> 3 - Trevi Fountain </i> <br>
+           <p> This fountain is perfect for a touring spot because theres a beautiful scene to look at and with pictures, you'll capture all the beautiful moments you had there. </p> <br>
+           <h2>
+               <i> 2. Palmero Cathedral </i>
+           </h2>
+           <img src="https://th.bing.com/th/id/OIP.m78nGB1N-dstDkyGgynASwHaE8?w=306&h=204&c=7&r=0&o=5&pid=1.7" alt="Palmero Cathedral" width="230px;" height="150px;">
+           <p>
+               The <b>Palmero Cathedral</b> is the cathedral church, which is located in Palmero, Sicily, which is southern Italy. It was dedicated to the Assumption of the Virgin Mary. This building was made in the 12th century which means there are tons of historical things to see and it's characterized by many different styles.
+           </p>
+           <p>
+               The Cathedral of Palmero is a treasure of the Norman architecture because of its history. It is also known for being one of the most important architectural moments in Sicily. It was built approximately 1184 by the Normans as a re-coverted Christian church that was previously built over a Christian basilica.
+           </p> <br>
+           <h2>
+               <i> 3. Villa Rufolo </i>
+           </h2>
+           <img src="https://th.bing.com/th/id/OIP.5pT31nLmngq_R3sLQHFkkwHaE8?w=261&h=180&c=7&r=0&o=5&pid=1.7" alt="Villa Rufolo" width="230px;" height="150px;">
+           <p>
+               Due to the <b>Villa Rufolo</b> being built by a wealthy merchant family in the early 13th century, the villa has a rich but storied past. It was one of the most expensive and largest villas on the Amalfi Coast, and people spread rumors that there might be hidden treasure on its premises. </p>
+               <p>
+                   One of the reasons why to visit the villa is due to the gardens and grounds - they're open year around and attract visitors everywhere around the world. The villa itself consists of two large towers and the larger one stands next to a beautiful Moorish-styled cloister. This is the perfect spot to visit in Italy, so come visit and see what makes the Villa Rufolo so enchanting!
+               </p> <br> <br>
+               <h3>
+                   <i> Where To Visit Next</i>
+               </h3>
+               <p>
+                   These top places will make you enjoy Italy to it's fullest, but what about other famous places? The number one place is the Colosseum in Rome, Italy. <br> <br>
+               <img src="https://th.bing.com/th/id/R.a560fde2bee2fdc5cbb9c98f7d56a80f?rik=bPyqV82QXrA5KQ&pid=ImgRaw&r=0" alt="Colosseum" width="230px;" height="150px;"> <br> <br>
+               This Colosseum provides many touring spots and areas to rest, which is a perfect destination if you're looking for something historical and fun. 
+               There are many other sites, but these four (including the Colosseum) are the top spots for tourists and visitors.
+               </p>
+    </body>
+</html>
